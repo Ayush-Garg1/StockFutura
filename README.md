@@ -20,6 +20,9 @@ The loss function for stock price prediction is likely Mean Squared Error (MSE),
 ## Evaluation Metrics:
 The model is evaluated using metrics such as MSE or Mean Absolute Error (MAE), which measure how close the predicted prices are to the actual prices.
 
+|Mean Absolute Error (MAE) : 2.7980 😃📈|
+|-|
+
 ## Results:
 The model’s predictions are compared with actual stock prices for the test set. Visualizations such as line plots could be generated to compare predicted prices vs. real prices over time, illustrating the model's performance.
 
