@@ -23,5 +23,8 @@ The model is evaluated using metrics such as MSE or Mean Absolute Error (MAE), w
 ## Results:
 The model’s predictions are compared with actual stock prices for the test set. Visualizations such as line plots could be generated to compare predicted prices vs. real prices over time, illustrating the model's performance.
 
-## Conclusion:
-The project likely concludes with an analysis of how well the model predicted stock prices and discusses potential improvements, such as incorporating additional features like market sentiment or news data.
+| ![download](https://github.com/user-attachments/assets/97bf8ef7-911e-41a0-a10d-4f4330ed0111) | ![download](https://github.com/user-attachments/assets/e0eee574-502a-4f38-aa2a-86cfad2448f8) |
+|-|-|
+| ![download](https://github.com/user-attachments/assets/f3b83985-9f67-4d9c-b948-930b94f6f5af) | ![download](https://github.com/user-attachments/assets/a4186d78-d038-4ae0-afd0-0b31c0173e77) |
+| ![download](https://github.com/user-attachments/assets/e62a283e-40ce-4886-9327-e983f2e53159) | ![download](https://github.com/user-attachments/assets/ce6e7b16-42ea-4d10-9283-733b5a4dc7e0) |
+| ![download](https://github.com/user-attachments/assets/c33ba27b-e3af-49c8-93dc-372feca5a494) | ![download](https://github.com/user-attachments/assets/036e1e14-6bbd-4925-ad18-15e3c718ccc4) |
